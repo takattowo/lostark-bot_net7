@@ -8,8 +8,8 @@ The idea is to make a simple tool to do your daily chaos and/or spam the chaos f
 
 Simple, easy to use.
 
-Most cool thing is, this tool DOES NOT take control of your mouse and keyboard, so you can actually hide the process behind and watch movie, play another game while the bot is running.
-
+**Most cool thing is, this tool DOES NOT take control of your mouse and keyboard, so you can actually hide the process behind and watch movie, play another game while the bot is running.
+**
 What will be added:
 - A working chaos bot
 - Fishing bot
