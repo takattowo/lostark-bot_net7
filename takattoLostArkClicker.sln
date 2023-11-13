@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "takattoLostArkClicker", "takattoLostArkClicker.csproj", "{C3A8E5CB-C17B-4823-8FF9-30FF01A7578C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3A8E5CB-C17B-4823-8FF9-30FF01A7578C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A8E5CB-C17B-4823-8FF9-30FF01A7578C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A8E5CB-C17B-4823-8FF9-30FF01A7578C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A8E5CB-C17B-4823-8FF9-30FF01A7578C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B71ADAF4-C39C-49D2-9A3F-8A398217EA25}
+	EndGlobalSection
+EndGlobal
